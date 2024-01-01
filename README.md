@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @billykibet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ⭐ Billy Kibet 
 
-<!---
-billykibet/billykibet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-t
+### Hi there 👋
+
+**Be welcome to my profile on Github. :octocat:** 
+
+<p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
